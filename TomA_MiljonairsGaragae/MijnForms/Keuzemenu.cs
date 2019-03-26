@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TomA_MiljonairsGaragae
+namespace TomA_MiljonairsGaragae.MijnForms
 {
-    public partial class Form1 : Form
+    public partial class Keuzemenu : Form
     {
-        public Form1()
+        public Keuzemenu()
         {
             InitializeComponent();
         }
